@@ -1,10 +1,9 @@
 # C++ Template 延伸自主練習 — 學習報告
 
 **主題**：STL 與基礎資料結構入門  
-**姓名**：_________________  
-**學號**：_________________  
-**日期**：_________________  
-**GitHub Repository**：https://github.com/your-account/your-repository
+**姓名**：張瑞麟
+**學號**：s11459010    
+**GitHub Repository**：https://github.com/CHANG-JUI-LIN/C-Template-Practice
 
 ---
 
