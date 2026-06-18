@@ -3,7 +3,7 @@
 **主題**：STL 與基礎資料結構入門  
 **姓名**：張瑞麟
 **學號**：s11459010    
-**GitHub Repository**：https://github.com/CHANG-JUI-LIN/C-Template-Practice
+**GitHub Repository**：https://github.com/CHANG-JUI-LIN/Cpp-Template-Practice
 
 ---
 
@@ -455,5 +455,3 @@ g++ -std=c++17 main.cpp -o main
 6. **整合更多 STL 容器**：使用 priority_queue 實作「成績前十名排行榜」，使用 set 實作「不重複的班級列表」等進階功能。
 
 ---
-
-*本報告由學生自行撰寫，程式碼為原創作品，如有參考外部資源已於文中標註。*
